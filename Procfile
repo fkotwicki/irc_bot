@@ -1,1 +1,1 @@
-web: target/start App
+worker: target/start App
