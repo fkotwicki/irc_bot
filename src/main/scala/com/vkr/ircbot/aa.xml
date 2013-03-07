@@ -1,0 +1,106 @@
+<entry>
+	<id>http://gdata.youtube.com/feeds/videos/m6wtsQjTWoI</id>
+	<published>2013-03-06T08:01:44.000Z</published>
+	<updated>2013-03-06T08:01:44.000Z</updated>
+	<app:control>
+		<yt:state name='restricted' reasonCode='limitedSyndication'>Syndication of this
+			video was restricted.</yt:state>
+	</app:control>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video' />
+	<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat'
+		term='Sports' label='Sports' />
+	<title type='text'>Scarpa Ski Test Kuhtai 2013 - ipad</title>
+	<content type='html'>&lt;div style="color: #000000;font-family: Arial,
+		Helvetica, sans-serif; font-size:12px; font-size: 12px; width:
+		555px;"&gt;
+		&lt;table cellspacing="0" cellpadding="0"
+		border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top"
+		rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px
+		10px 5px 0px;"&gt;&lt;a
+		href="http://www.youtube.com/watch?v=m6wtsQjTWoI&amp;amp;feature=youtube_gdata"&gt;&lt;img
+		alt=""
+		src="http://i.ytimg.com/vi/m6wtsQjTWoI/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+		&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px;
+		font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight:
+		bold; font-decoration: none;"
+		href="http://www.youtube.com/watch?v=m6wtsQjTWoI&amp;amp;feature=youtube_gdata"&gt;Scarpa
+		Ski Test Kuhtai 2013 - ipad&lt;/a&gt;
+		&lt;br&gt;&lt;/div&gt;
+		&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Scarpa Ski
+		Test Kuhtai 2013&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+		&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;
+		padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span
+		style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+		&lt;a
+		href="http://www.youtube.com/channel/UCip5KUFvUO__1ItCxtIec_A"&gt;Jake
+		Wiid&lt;/a&gt;&lt;/div&gt;
+		&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+		0&lt;/div&gt;
+		&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img
+		style="border: 0px none; margin: 0px; padding: 0px; vertical-align:
+		middle; font-size: 11px;" align="top" alt=""
+		src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;
+		&lt;img style="border: 0px none; margin: 0px; padding: 0px;
+		vertical-align: middle; font-size: 11px;" align="top" alt=""
+		src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;
+		&lt;img style="border: 0px none; margin: 0px; padding: 0px;
+		vertical-align: middle; font-size: 11px;" align="top" alt=""
+		src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;
+		&lt;img style="border: 0px none; margin: 0px; padding: 0px;
+		vertical-align: middle; font-size: 11px;" align="top" alt=""
+		src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;
+		&lt;img style="border: 0px none; margin: 0px; padding: 0px;
+		vertical-align: middle; font-size: 11px;" align="top" alt=""
+		src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;&lt;/div&gt;
+		&lt;div style="font-size: 11px;"&gt;0
+		&lt;span style="color: #666666; font-size:
+		11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size:
+		11px;"&gt;Time:&lt;/span&gt;
+		&lt;span style="color: #000000; font-size: 11px; font-weight:
+		bold;"&gt;03:00&lt;/span&gt;&lt;/td&gt;
+		&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span
+		style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+		&lt;a
+		href="http://www.youtube.com/videos?c=17"&gt;Sports&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+	<link rel='alternate' type='text/html'
+		href='http://www.youtube.com/watch?v=m6wtsQjTWoI&amp;feature=youtube_gdata' />
+	<link rel='http://gdata.youtube.com/schemas/2007#video.responses'
+		type='application/atom+xml' href='http://gdata.youtube.com/feeds/videos/m6wtsQjTWoI/responses' />
+	<link rel='http://gdata.youtube.com/schemas/2007#video.related'
+		type='application/atom+xml' href='http://gdata.youtube.com/feeds/videos/m6wtsQjTWoI/related' />
+	<link rel='self' type='application/atom+xml'
+		href='http://gdata.youtube.com/feeds/videos/m6wtsQjTWoI' />
+	<author>
+		<name>Jake Wiid</name>
+		<uri>http://gdata.youtube.com/feeds/users/ip5KUFvUO__1ItCxtIec_A</uri>
+	</author>
+	<gd:comments>
+		<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments'
+			href='http://gdata.youtube.com/feeds/videos/m6wtsQjTWoI/comments'
+			countHint='0' />
+	</gd:comments>
+	<media:group>
+		<media:category label='Sports'
+			scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Sports</media:category>
+		<media:content
+			url='http://www.youtube.com/v/m6wtsQjTWoI?version=3&amp;f=videos&amp;app=youtube_gdata'
+			type='application/x-shockwave-flash' medium='video' isDefault='true'
+			expression='full' duration='180' yt:format='5' />
+		<media:description type='plain'>Scarpa Ski Test Kuhtai 2013</media:description>
+		<media:keywords />
+		<media:player
+			url='http://www.youtube.com/watch?v=m6wtsQjTWoI&amp;feature=youtube_gdata_player' />
+		<media:restriction type='country' relationship='deny'>DE</media:restriction>
+		<media:thumbnail url='http://i.ytimg.com/vi/m6wtsQjTWoI/0.jpg'
+			height='360' width='480' time='00:01:30' />
+		<media:thumbnail url='http://i.ytimg.com/vi/m6wtsQjTWoI/1.jpg'
+			height='90' width='120' time='00:00:45' />
+		<media:thumbnail url='http://i.ytimg.com/vi/m6wtsQjTWoI/2.jpg'
+			height='90' width='120' time='00:01:30' />
+		<media:thumbnail url='http://i.ytimg.com/vi/m6wtsQjTWoI/3.jpg'
+			height='90' width='120' time='00:02:15' />
+		<media:title type='plain'>Scarpa Ski Test Kuhtai 2013 - ipad</media:title>
+		<yt:duration seconds='180' />
+	</media:group>
+</entry>
