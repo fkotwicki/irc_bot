@@ -25,7 +25,7 @@ abstract class CommandManager() {
     if (command != null && !commands.isEmpty) {
       for (command: Command <- commands) {
         if (command.getPrefix().equals(prefix))
-        return command
+        	return command
       }
     }
     return null

@@ -16,7 +16,7 @@ class BotCommand(prefix: String) extends SimpleCommand(prefix) {
     val keyword = CommandManager.join(elems.slice(4, elems.length), ' ')
     val channel = elems(2)
     val nick = nickMatcher.findFirstMatchIn(elems(0)).mkString
-    var url = "http://www.pandorabots.com/pandora/talk-xml?botid=a11e306b3e345f72&input=" + URLEncoder.encode(keyword, "UTF-8")
+    var url = "http://www.pandorabots.com/pandora/talk-xml?botid=81250debbe345c88&input=" + URLEncoder.encode(keyword, "UTF-8")
     if(!custId.isEmpty())
       url += "&custid=" + URLEncoder.encode(custId, "UTF-8")
     var method = new HttpPost(url)
