@@ -6,6 +6,7 @@ import com.vkr.ircbot.common.commands.SayCommand
 import com.vkr.ircbot.common.commands.YoutubeSearchCommand
 import com.vkr.ircbot.common.commands.BotCommand
 import com.vkr.ircbot.common.commands.WikiCommand
+import com.vkr.ircbot.common.commands.GoogleSearchCommand
 
 class UserCommandManager extends CommandManager(UserCommandParser) {
 	
@@ -13,7 +14,7 @@ class UserCommandManager extends CommandManager(UserCommandParser) {
     commands += new SayCommand("!say")
     commands += new GoogleSearchCommand("!google")
     commands += new YoutubeSearchCommand("!yt")
-    commands += new BotCommand("misiek:")
+    commands += new BotCommand("krystynka:")
     commands += new WikiCommand("!ask")
   }
   

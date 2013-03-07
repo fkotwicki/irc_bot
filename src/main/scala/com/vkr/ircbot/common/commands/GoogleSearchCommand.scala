@@ -1,4 +1,4 @@
-package com.vkr.ircbot.common
+package com.vkr.ircbot.common.commands
 import com.vkr.ircbot.io.Command
 import com.vkr.ircbot.io.SimpleCommand
 import java.net.URL
