@@ -44,8 +44,8 @@ class Client(server: String, port: Int) extends IrcClient {
   }
   
   private def register() {
-      var writer = new SocketWriter(socket)
-      writer.write("USER vkrbot vkrbot bla :vkrbot")
+    var writer = new SocketWriter(socket)
+    writer.write("USER vkrbot vkrbot bla :vkrbot")
 	  writer.write("NICK krystynka")
 	  writer.write("JOIN #twojastara")
   }
