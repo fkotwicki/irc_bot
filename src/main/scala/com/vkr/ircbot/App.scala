@@ -7,7 +7,7 @@ package com.vkr.ircbot
 object App {
   
   def main(args : Array[String]) {
-	  val c = new Client("irc.oftc.net", 6667)
+	  val c = new Client("arch.edu.pl", 6667)
 	  c.start()
   }
 
